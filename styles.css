@@ -28,6 +28,9 @@ body {
         color: white;
         text-decoration: none;
     }
+    .highlight {
+        color: blue;
+    }
     
     /* Hero Section */
     .hero {
